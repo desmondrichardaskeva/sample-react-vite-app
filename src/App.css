@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 1px solid red;
+    
+}
+
+.subApp {
+    width: 200px;
+    border: 1px solid green;
+}
